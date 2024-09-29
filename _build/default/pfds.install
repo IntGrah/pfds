@@ -1,0 +1,11 @@
+lib: [
+  "_build/install/default/lib/pfds/META"
+  "_build/install/default/lib/pfds/dune-package"
+  "_build/install/default/lib/pfds/opam"
+]
+bin: [
+  "_build/install/default/bin/pfds"
+]
+doc: [
+  "_build/install/default/doc/pfds/LICENSE.md"
+]

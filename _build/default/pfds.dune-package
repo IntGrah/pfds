@@ -1,0 +1,4 @@
+(lang dune 3.10)
+(name pfds)
+(sections (lib .) (bin ../../bin) (doc ../../doc/pfds))
+(files (lib (META dune-package opam)) (bin (pfds)) (doc (LICENSE.md)))
